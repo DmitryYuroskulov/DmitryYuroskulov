@@ -1,4 +1,4 @@
-Hi, I am Front-end Developer, living in Kazakhstan, Almaty.\
+Hi, I am Frontend Developer, living in Kazakhstan, Almaty.\
 Now working in ***Spark Logistics***\
 Interested and ready to Open Source projects
 
