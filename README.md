@@ -8,5 +8,5 @@ Interested and ready to Open Source projects
 > DmitryYuroskulov --skills
 > VueJS, NuxtJS, ReactJS, HTML5, CSS3, SASS
 > DmitryYuroskulov --social
-> Vkontakte: https://vk.com/dmitry_shade | Instagramm: https://instagram.com/yuroskulov
+> Vkontakte: https://vk.com/dmitry_shade | Instagramm: @yuroskulov
 ```
