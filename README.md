@@ -1,7 +1,7 @@
 ![I am Front-end Developer](https://sun9-11.userapi.com/5aoiCam_uMRlVG-wJS-DH19Van1TGRW5zpMGHA/T391S_dWV6g.jpg)
 
 Hi, I am Front-end Developer, living in Kazakhstan, Almaty.\
-Now working in ***Spark Logistic***\
+Now working in ***Spark Logistics***\
 Interested and ready to Open Source projects
 
 ```bash
